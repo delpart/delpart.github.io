@@ -33,8 +33,8 @@ When | What | Where
 
 ## Publications
 
-C. W. Senn, I. Kumazawa: Robust Echo State Networks, JNNS2019
-R. Bernhardsgruetter, C. W. Senn, R. M. Fuechsling, C. Jaeger, K. Nakajima, H. Hauser: Employing L-Systems to Generate Mass-Spring Networks for Morphological Computing, NOLTA2014
+- C. W. Senn, I. Kumazawa: Robust Echo State Networks, JNNS2019
+- R. Bernhardsgruetter, C. W. Senn, R. M. Fuechsling, C. Jaeger, K. Nakajima, H. Hauser: Employing L-Systems to Generate Mass-Spring Networks for Morphological Computing, NOLTA2014
 
 ## Awards and Scholarship
 
