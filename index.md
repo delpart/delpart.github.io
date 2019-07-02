@@ -10,6 +10,10 @@ I am doctoral student in information and communications engineering at the Tokyo
 
 I am working on the analysis and verification of neural networks using abstract interpretation. Further, I am also highly interested in morphological computing and its applications based on (physical) reservoir computing.
 
+## Misc Interest
+
+Next to my research, I am also interested in computer graphics, namely ray tracing/marching, and general game development.
+
 ## Vocational Experience
 
 When | What | Where
