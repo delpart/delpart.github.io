@@ -1,1 +1,0 @@
-# delpart.github.io
