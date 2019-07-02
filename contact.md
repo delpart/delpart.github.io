@@ -10,5 +10,5 @@ is_contact: true
 
 ## Social
 
-1. [Github](https://github.com/delpart)
-2. [ORCID](https://orcid.org/0000-0002-4396-1720)
+* [Github](https://github.com/delpart)
+* [ORCID](https://orcid.org/0000-0002-4396-1720)
