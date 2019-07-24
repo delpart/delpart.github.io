@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am doctoral student in information and communications engineering at the Tokyo Institute of Technology, Japan.
+I am a doctoral student in information and communications engineering at the Tokyo Institute of Technology, Japan.
 
 ## Research Interest
 
@@ -12,7 +12,7 @@ I am working on the analysis and verification of neural networks using abstract 
 
 ## Misc Interest
 
-Next to my research, I am also interested in computer graphics, namely ray tracing/marching, and general game development.
+Next, to my research, I am also interested in computer graphics, namely ray tracing/marching, and general game development.
 
 ## Vocational Experience
 
@@ -29,7 +29,7 @@ When | What | Where
 When | What | Where
 -----|------|------
 9.2018-ongoing | Doctorate in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
-9.2016-9.2018 | Master of Engineering in Information and Communications Engineering | Tokkyo Institute of Technology, Kumazawa Laboratory, Japan
+9.2016-9.2018 | Master of Engineering in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2010-7.2014 | BSc UAS Computer Science | ZHAW - School of Engineering, Switzerland
 8.2009-7.2009 | Professional Baccalaureate | Berufsbildungsschule Winterthur, Switzerland
 8.2007-7.2009 | Federal professional certification as a network engineer | ZLI, Switzerland
@@ -53,3 +53,4 @@ Year | Award | Description
 
 ## References
 Upon request
+
