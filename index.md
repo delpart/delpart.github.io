@@ -54,7 +54,7 @@ Year | Award | Description
 2009 | SANS NetWars Coin | Ranked 7 out of 94 at the NRI Secure NetWars 2019 in Tokyo.
 2018 | MEXT Scholarship | Awarded MEXT scholarship for my doctoral studies.
 2016 | MEXT Scholarship | Awarded MEXT scholarship for my master studies.
-2010 | SoE Award | Best professional baccalaureate in the canton of Zurich.
+2010 | SoE Award | Best result cantonwide (Zurich) in completing my professional baccalaureate.
 
 
 ---
