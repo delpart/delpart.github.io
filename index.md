@@ -38,12 +38,20 @@ When | What | Where
 ## Publications
 
 - C. W. Senn, I. Kumazawa: Robust Echo State Networks, JNNS2019
+- C. Frischknecht-Gruber, M. Marti, C. W. Senn, B. Contreras, and S. S. Krauss: Integration of
+security into cast, 2nd Japanese STAMP Workshop
+- S. S. Krauss, M. Rejzek, C. W. Senn, and C. Hilbes: Sahra - an integrated software tool for
+stpa, 4th European STAMP Workshop.
+- S. S. Krauss, M. U. Reif, M. Rejzek, C. W. Senn, and C. Hilbes: Stpa – sicherheitsanalyse für
+komplexe systeme,  safe.tech 2016.
+- C. W. Senn and T. Theeramunkong: Speed prediction using L-reservoirs, Tenth International Conference on Knowledge, Information and Creativity Support Systems (KICSS2015).
 - R. Bernhardsgruetter, C. W. Senn, R. M. Fuechsling, C. Jaeger, K. Nakajima, H. Hauser: Employing L-Systems to Generate Mass-Spring Networks for Morphological Computing, NOLTA2014
 
-## Awards and Scholarship
+## Awards, Achievements and Scholarships
 
 Year | Award | Description
 -----|-------|--------
+2009 | SANS NetWars Coin | Ranked 7 out of 94 at the NRI Secure NetWars 2019.
 2018 | MEXT Scholarship | Awarded MEXT scholarship for my doctoral studies.
 2016 | MEXT Scholarship | Awarded MEXT scholarship for my master studies.
 2010 | SoE Award | Best professional baccalaureate in the canton of Zurich.
