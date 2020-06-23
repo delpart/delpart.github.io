@@ -3,7 +3,7 @@ url: "https://delpart.github.io"
 baseurl: "/"
 
 markdown: kramdown
-ins_logo: "titech-logo.png"
+#ins_logo: "titech-logo.png"
 
 tracking_id: #
 
