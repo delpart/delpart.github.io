@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-
+<img class="profile-picture" src="chris.jpg">
 I am a doctoral student in information and communications engineering at the Tokyo Institute of Technology, Japan.
 
 ## Research Interest
