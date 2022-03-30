@@ -8,7 +8,7 @@ I am a doctoral student in information and communications engineering at the Tok
 
 ## Research Interest
 
-I am working on the analysis and verification of neural networks using abstract interpretation. Further, I am also highly interested in morphological computing and its applications based on (physical) reservoir computing.
+I am working on robust computation in/with dynamical systems. Further, I am also highly interested in morphological computing and its applications based on (physical) reservoir computing.
 
 ## Misc Interest
 
