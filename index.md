@@ -39,7 +39,9 @@ When | What | Where
 8.2003-7.2007 | Federal professional certification as a draughtsman | AZW, Switzerland
 
 ## Publications
-
+- C. Frischknecht-Gruber, M. Reif, C. W. Senn: A review of global efforts towards establishing safety directives for intelligent systems, ESREL2022.
+- S. Brunner, C. Frischknecht-Gruber, M. Reif, C. W. Senn: Deep Gaussian Mixture Model - A Novelty Detection Method for Time Series, ESREL2022.
+- C. W. Senn, I. Kumazawa: Abstract Reservoir Computing, AI.
 - C. W. Senn, I. Kumazawa: Robust Echo State Networks, JNNS2019
 - C. Frischknecht-Gruber, M. Marti, C. W. Senn, B. Contreras, and S. S. Krauss: Integration of
 security into cast, 2nd Japanese STAMP Workshop
