@@ -18,7 +18,8 @@ Next, to my research, I am also interested in computer graphics, namely ray trac
 
 When | What | Where
 -----|------|------
-3.2020-ongoing | AI Engineer - Intern | Cross Compass, Japan
+5.2021-ongoing | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
+3.2020-1.2021 | AI Engineer | Cross Compass, Japan
 9.2019-3.2020 | Research/Software Engineer - Intern | Corpy & Co, Japan
 8.2017-12.2018 | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
 2.2016-8.2016 | Research Assistant for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
