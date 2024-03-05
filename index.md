@@ -18,7 +18,8 @@ Next, to my research, I am also interested in computer graphics, namely ray trac
 
 When | What | Where
 -----|------|------
-5.2021-ongoing | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
+4.2023-current | R&D ML Engineer | Bandai Namco Studios, Japan
+5.2021-4.2023 | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
 3.2020-1.2021 | AI Engineer | Cross Compass, Japan
 9.2019-3.2020 | Research/Software Engineer - Intern | Corpy & Co, Japan
 8.2017-12.2018 | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
@@ -31,7 +32,7 @@ When | What | Where
 
 When | What | Where
 -----|------|------
-9.2018-ongoing | Doctorate in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
+4.2019-3.2024 | Doctorate in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2016-9.2018 | Master of Engineering in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2010-7.2014 | BSc UAS Computer Science | ZHAW - School of Engineering, Switzerland
 8.2009-7.2009 | Professional Baccalaureate | Berufsbildungsschule Winterthur, Switzerland
