@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="chris.jpg">
-I am a doctoral student in information and communications engineering at the Tokyo Institute of Technology, Japan.
+I am a research engineer currently working on neural network accelerated soft-body simulations for games.
 
 ## Research Interest
 
