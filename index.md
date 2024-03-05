@@ -40,6 +40,11 @@ When | What | Where
 8.2003-7.2007 | Federal professional certification as a draughtsman | AZW, Switzerland
 
 ## Publications
+- C. W. Senn: Memory in conductive fabrics for reservoir computing, International Journal of
+Unconventional Computing, 2024.
+- C. Frischknecht-Gruber, B. Ricchiuto, M. Reif, J. Weng, and C. Senn: Ensuring safety in
+highly automated vehicles: A review of testing and validation methods for robustness and
+reliability, in ESREL 2023.
 - C. Frischknecht-Gruber, M. Reif, C. W. Senn: A review of global efforts towards establishing safety directives for intelligent systems, ESREL2022.
 - S. Brunner, C. Frischknecht-Gruber, M. Reif, C. W. Senn: Deep Gaussian Mixture Model - A Novelty Detection Method for Time Series, ESREL2022.
 - C. W. Senn, I. Kumazawa: Abstract Reservoir Computing, AI.
