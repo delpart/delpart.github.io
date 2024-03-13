@@ -35,7 +35,7 @@ When | What | Where
 4.2019-3.2024 | Doctorate in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2016-9.2018 | Master of Engineering in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2010-7.2014 | BSc UAS Computer Science | ZHAW - School of Engineering, Switzerland
-8.2009-7.2009 | Professional Baccalaureate | Berufsbildungsschule Winterthur, Switzerland
+8.2009-7.2010 | Professional Baccalaureate | Berufsbildungsschule Winterthur, Switzerland
 8.2007-7.2009 | Federal professional certification as a network engineer | ZLI, Switzerland
 8.2003-7.2007 | Federal professional certification as a draughtsman | AZW, Switzerland
 
