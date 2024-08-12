@@ -40,8 +40,9 @@ When | What | Where
 8.2003-7.2007 | Federal professional certification as a draughtsman | AZW, Switzerland
 
 ## Publications
+-  C. W. Senn, C. ML. Frischknecht-Gruber, M. Weyland, R. M. Füchslin: Neural Lindenmayer Systems, ALIFE2024.
 - C. W. Senn: Memory in conductive fabrics for reservoir computing, International Journal of
-Unconventional Computing, 2024.
+Unconventional Computing, 2024 (Accepted).
 - C. Frischknecht-Gruber, B. Ricchiuto, M. Reif, J. Weng, and C. Senn: Ensuring safety in
 highly automated vehicles: A review of testing and validation methods for robustness and
 reliability, in ESREL 2023.
@@ -55,7 +56,7 @@ security into cast, 2nd Japanese STAMP Workshop
 stpa, 4th European STAMP Workshop.
 - S. S. Krauss, M. U. Reif, M. Rejzek, C. W. Senn, and C. Hilbes: Stpa – sicherheitsanalyse für
 komplexe systeme,  safe.tech 2016.
-- C. W. Senn and T. Theeramunkong: Speed prediction using L-reservoirs, Tenth International Conference on Knowledge, Information and Creativity Support Systems (KICSS2015).
+- C. W. Senn and T. Theeramunkong: Speed prediction using L-reservoirs, KICSS2015.
 - R. Bernhardsgruetter, C. W. Senn, R. M. Fuechsling, C. Jaeger, K. Nakajima, H. Hauser: Employing L-Systems to Generate Mass-Spring Networks for Morphological Computing, NOLTA2014
 
 ## Awards, Achievements and Scholarships
