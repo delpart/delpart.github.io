@@ -4,11 +4,10 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="chris.jpg">
-I am a research engineer currently working on neural network accelerated soft-body simulations for games.
+I am a research engineer currently working on neural network accelerated soft-body simulations, neural rendering and neural game engines in the video game industry.
 
 ## Research Interest
-
-I am working on robust computation in/with dynamical systems. Further, I am also highly interested in morphological computing and its applications based on (physical) reservoir computing.
+I am also highly interested in robust computation in/with dynamical systems (e.g., reservoir computing, cellular automata), and how to model dynamical systems with neural networks.
 
 ## Misc Interest
 
