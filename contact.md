@@ -3,7 +3,6 @@ layout: default
 is_contact: true
 ---
 
-* Email: [senn.c.aa@m.titech.ac.jp](mailto:senn.c.aa@m.titech.ac.jp)
 * Email: [christoph@senn.science](mailto:christoph@senn.science)
 * Email: [chrigi.senn@gmail.com](mailto:chrigi.senn@gmail.com)
 
