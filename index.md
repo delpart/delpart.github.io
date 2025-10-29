@@ -20,12 +20,8 @@ When | What | Where
 4.2023-current | R&D ML Engineer | Bandai Namco Studios, Japan
 5.2021-4.2023 | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
 3.2020-1.2021 | AI Engineer | Cross Compass, Japan
-9.2019-3.2020 | Research/Software Engineer - Intern | Corpy & Co, Japan
 8.2017-12.2018 | Research Associate for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
 2.2016-8.2016 | Research Assistant for Safety-Critical Systems | ZHAW - Institute of Applied Mathematics and Physics, Switzerland
-8.2014-1.2016 | Research in Machine Learning | SIIT, Thammasat University, Thailand
-12.2007-8.2009 | Network Engineer | Baggenstos & Co AG, Switzerland
-8.2003-7.2007 | Draughtsman | AWZ and Hug Engineering, Switzerland
 
 ## Education
 
@@ -34,9 +30,6 @@ When | What | Where
 4.2019-3.2024 | Doctorate in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2016-9.2018 | Master of Engineering in Information and Communications Engineering | Tokyo Institute of Technology, Kumazawa Laboratory, Japan
 9.2010-7.2014 | BSc UAS Computer Science | ZHAW - School of Engineering, Switzerland
-8.2009-7.2010 | Professional Baccalaureate | Berufsbildungsschule Winterthur, Switzerland
-8.2007-7.2009 | Federal professional certification as a network engineer | ZLI, Switzerland
-8.2003-7.2007 | Federal professional certification as a draughtsman | AZW, Switzerland
 
 ## Publications
 -  C. W. Senn, C. ML. Frischknecht-Gruber, M. Weyland, R. M. Füchslin: Neural Lindenmayer Systems, ALIFE2024.
