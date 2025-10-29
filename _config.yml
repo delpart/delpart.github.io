@@ -17,5 +17,7 @@ sass:
 nav:
  - name: "About"
    link: "/"
+ - name: "CV"
+    link: /assets/cv/cv_senn_christoph.pdf
  - name: "Contact"
    link: "contact"
