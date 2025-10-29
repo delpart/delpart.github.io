@@ -7,11 +7,11 @@ layout: default
 I am a research engineer currently working on neural network accelerated soft-body simulations, neural rendering and neural game engines in the video game industry.
 
 ## Research Interest
-I am also highly interested in robust computation in/with dynamical systems (e.g., reservoir computing, cellular automata), and how to model dynamical systems with neural networks.
+I am also highly interested in robust computation in/with dynamical systems (e.g., reservoir computing, cellular automata), as well as in modelling dynamical systems with neural networks.
 
 ## Misc Interest
 
-Next, to my research, I am also interested in computer graphics, namely ray tracing/marching, and general game development.
+In addition to my research, I am also interested in computer graphics, namely ray tracing/marching, and general game development.
 
 ## Vocational Experience
 
@@ -57,7 +57,7 @@ Year | Award | Description
 -----|-------|--------
 2019 | SANS NetWars Coin | Ranked 7 out of 94 at the NRI Secure NetWars 2019 in Tokyo.
 2018 | MEXT Scholarship | Awarded MEXT scholarship for my doctoral studies.
-2016 | MEXT Scholarship | Awarded MEXT scholarship for my master studies.
+2016 | MEXT Scholarship | Awarded MEXT scholarship for my master's studies.
 2010 | SoE Award | Best result cantonwide (Zurich) in completing my professional baccalaureate.
 
 
