@@ -49,7 +49,7 @@ stpa, 4th European STAMP Workshop.
 - S. S. Krauss, M. U. Reif, M. Rejzek, C. W. Senn, and C. Hilbes: Stpa – sicherheitsanalyse für
 komplexe systeme,  safe.tech 2016.
 - C. W. Senn and T. Theeramunkong: Speed prediction using L-reservoirs, KICSS2015.
-- R. Bernhardsgruetter, C. W. Senn, R. M. Fuechsling, C. Jaeger, K. Nakajima, H. Hauser: Employing L-Systems to Generate Mass-Spring Networks for Morphological Computing, NOLTA2014
+- R. Bernhardsgruetter, C. W. Senn, R. M. Fuechslin, C. Jaeger, K. Nakajima, H. Hauser: Employing L-Systems to Generate Mass-Spring Networks for Morphological Computing, NOLTA2014
 
 ## Awards, Achievements and Scholarships
 
